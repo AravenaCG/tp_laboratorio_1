@@ -1,0 +1,55 @@
+# depslib dependency file v1.0
+1506035445 source:c:\users\alejandra\desktop\tp2\tp2\funciones.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	"funciones.h"
+	"validar.h"
+
+1506034282 c:\users\alejandra\desktop\tp2\tp2\funciones.h
+
+1506027629 c:\users\alejandra\desktop\tp2\tp2\validar.h
+
+1506027629 source:c:\users\alejandra\desktop\tp2\tp2\validar.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	"validar.h"
+
+1506034282 source:c:\users\alejandra\desktop\tp2\tp2\main.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	"funciones.h"
+	"validar.h"
+
+1506049706 source:c:\users\hunter\desktop\tp2\tp2\validar.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	"validar.h"
+	"persona.h"
+
+1506045084 c:\users\hunter\desktop\tp2\tp2\validar.h
+
+1506049706 source:c:\users\hunter\desktop\tp2\tp2\funciones.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	"funciones.h"
+	"validar.h"
+	"persona.h"
+
+1506049795 c:\users\hunter\desktop\tp2\tp2\funciones.h
+	"persona.h"
+
+1506049706 source:c:\users\hunter\desktop\tp2\tp2\main.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	"funciones.h"
+	"validar.h"
+	"persona.h"
+
+1506049706 c:\users\hunter\desktop\tp2\tp2\persona.h
+
